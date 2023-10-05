@@ -14,3 +14,12 @@ body
     margin: 0 auto;
     text-align: left;
 }
+
+#content{
+    text-align: center;
+    font-size: 20px;
+    background-color: gray;
+    color: blue;
+    margin: 0 auto;
+    padding: 5px; 
+}
