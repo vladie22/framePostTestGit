@@ -9,27 +9,35 @@ body
 }
 
 #container{
-    width: 70%;
+    width: 30%;
     border: solid black;
     margin: 0 auto;
     text-align: left;
 }
 
+#container #tagline{
+    color: white;
+    text-align: end;
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    margin-left: 100px;
+}
+
 #container h1 {
-    padding: 20px;
-    color: blue;
-    font-size: 50px;
+    color: white;
+    font-size: 30;
     font-weight: 100;
-    border: dotted 10px black;
-    background-color: rgb(232, 231, 231);
-    text-align: center;
-    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;;
+    background-color: blueviolet;
+    text-align: start;
+    box-shadow: 1px 3px 18px -6px rgba(0,0,0,1);
 }
 #footer{
+    color: white;
     text-align: end;
     padding: 20px;
     font-size: 20px;
-    margin-top: 10px;
-    background-color: rgb(174, 174, 231);
+    margin-top: 20px;
+    background-color: blueviolet;
     box-shadow: 1px 3px 18px -6px rgba(0,0,0,1);
 }
