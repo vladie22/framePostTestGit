@@ -33,11 +33,12 @@ body
     box-shadow: 1px 3px 18px -6px rgba(0,0,0,1);
 }
 #footer{
+    text-align: center;
+    font-weight: bold;
     color: white;
-    text-align: end;
-    padding: 20px;
+    padding: 20px 15px 10px 10px;
     font-size: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: blueviolet;
     box-shadow: 1px 3px 18px -6px rgba(0,0,0,1);
 }
