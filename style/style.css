@@ -1,43 +1,52 @@
 body
 {
-    color: #333;
+    background: rgb(62, 60, 60);
+    color: black;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
-    margin: 0;
-    padding: 0;
 }
 
 #container{
-    width: 30%;
+    width: 40%;
     border: solid black;
     margin: 0 auto;
     text-align: left;
 }
 
-#container #tagline{
-    color: white;
-    text-align: end;
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-    margin-left: 100px;
+#content{
+    background: white;
 }
 
-#container h1 {
+#tagline{
     color: white;
-    font-size: 30;
+    text-align: end;
+    padding: 0 0 0 5em;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+#cabecera {
+    background: url("../images/gtsm8.png")10px 10px no-repeat center cover;
+    color: white;
+    font-size: 30px;
     font-weight: 100;
     background-color: blueviolet;
     text-align: start;
     box-shadow: 1px 3px 18px -6px rgba(0,0,0,1);
 }
+
+#logo{
+    padding: 5px 0 0 5px;
+    width: 40px;
+    box-shadow: 1px 3px 18px -6px black;
+}
+
 #footer{
     color: white;
     text-align: end;
     padding: 20px;
     font-size: 20px;
-    margin-top: 20px;
     background-color: blueviolet;
     box-shadow: 1px 3px 18px -6px rgba(0,0,0,1);
 }
