@@ -1,7 +1,7 @@
 body
 {
-    background: rgb(62, 60, 60);
-    color: black;
+    background: rgb(249, 182, 48);
+    color:black;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -12,10 +12,12 @@ body
     border: solid black;
     margin: 0 auto;
     text-align: left;
+    box-shadow: 10px 5px 10px -5px blueviolet;
 }
 
 #content{
     background: white;
+    
 }
 
 #tagline{
@@ -30,11 +32,10 @@ body
 #cabecera {
     background: url("../images/gtsm8.png")10px 10px no-repeat center cover;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     background-color: blueviolet;
     text-align: start;
-    box-shadow: 10px 5px 10px -5px blueviolet;
 }
 
 #logo{
@@ -50,13 +51,4 @@ body
     padding: 10px 0px 10px 0px;
     font-size: 20px;
     background-color: blueviolet;
-    box-shadow: 10px 10px 10px -4px blueviolet;
 }
-
-text-align: center;
-    font-weight: bold;
-    color: white;
-    padding: 10px 0px 10px 0px;
-    font-size: 20px;
-    background-color: blueviolet;
-    box-shadow: 10px 10px 10px -4px blueviolet;
