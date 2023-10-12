@@ -10,5 +10,8 @@ En este post podras ver como pepito nos presume su tarjeta de presentacion de su
 > - El flujo de trabajo de Github.
 > - Trucos y aplicaciones de git y github.
 > - Entre muchas otras cosas mas jeje! 😀.
+> - Ejemplos en linux.
+> - Los secretos mas oscuros de git.
+
 
 ##### Todo esto fue realizado con la finalidad de poner en practrica el [curso](https://platzi.com/cursos/git-github/ "curso"), ve y checalo!
