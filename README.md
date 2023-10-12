@@ -14,4 +14,5 @@ En este post podras ver como pepito nos presume su tarjeta de presentacion de su
 > - Los secretos mas oscuros de git.
 
 
-##### Todo esto fue realizado con la finalidad de poner en practrica el [curso](https://platzi.com/cursos/git-github/ "curso"), ve y checalo!
+
+##### Todo esto fue realizado con la finalidad de poner en practrica el [curso](https://platzi.com/cursos/git-github/ "curso"), ve y checalo es un buen inicio!
